@@ -29,15 +29,16 @@
 # How to Key In Your Guess Number:
 1. Use the url in your browser after you run the code
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/cf2619aa-6625-4a35-92c0-177df37d2f85" />
-<br>
+<p></p>
+
 2. Key in your guess number <br>
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/0cfb9a20-cbe1-4945-831b-c7dfbbb28277" />
 
 ---
 
 ### Screenshots:
-<img width="519" alt="Screenshot 2025-01-04 093323" src="https://github.com/user-attachments/assets/d08cb7ac-14ee-40f8-a468-35add1dea291" />
-<img width="465" alt="Screenshot 2025-01-04 093442" src="https://github.com/user-attachments/assets/58206e69-9dea-46ef-a891-789a44d10457" />
-<img width="467" alt="Screenshot 2025-01-04 093405" src="https://github.com/user-attachments/assets/9b5d56ac-ecbe-4998-b7cf-08d4764f5a18" />
-<img width="709" alt="Screenshot 2025-01-04 093421" src="https://github.com/user-attachments/assets/7a3a45da-1856-4ea7-9f07-7622c8e41cbc" />
+<img width="519" alt="Screenshot 2025-01-04 093323" src="https://github.com/user-attachments/assets/d08cb7ac-14ee-40f8-a468-35add1dea291" /> <br>
+<img width="465" alt="Screenshot 2025-01-04 093442" src="https://github.com/user-attachments/assets/58206e69-9dea-46ef-a891-789a44d10457" /> <br>
+<img width="467" alt="Screenshot 2025-01-04 093405" src="https://github.com/user-attachments/assets/9b5d56ac-ecbe-4998-b7cf-08d4764f5a18" /> <br>
+<img width="709" alt="Screenshot 2025-01-04 093421" src="https://github.com/user-attachments/assets/7a3a45da-1856-4ea7-9f07-7622c8e41cbc" /> <br>
 

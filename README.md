@@ -29,8 +29,8 @@
 # How to Key In Your Guess Number:
 1. Use the url in your browser after you run the code
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/cf2619aa-6625-4a35-92c0-177df37d2f85" />
-
-2. Key in your guess number
+<br>
+2. Key in your guess number <br>
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/0cfb9a20-cbe1-4945-831b-c7dfbbb28277" />
 
 ---
